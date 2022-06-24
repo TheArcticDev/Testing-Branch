@@ -275,7 +275,7 @@ do
 					Image = "rbxassetid://5028857084",
 					ImageColor3 = themes.Glow,
 				}),
-            })
+            }),
 				utility:Create("ImageLabel", {
 					Name = "Pages",
 					BackgroundTransparency = 1,
